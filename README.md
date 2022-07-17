@@ -6,22 +6,22 @@ This repository contains all of my work from [GeekDoing](https://geekdoing.com/s
 ## Instructions
 Each Files have the resource name and the firmware version they can be used with. If you wish to view the full list of firmware and resource compatibility, [Click Here for Mi band 4](https://geekdoing.com/threads/xiaomi-mi-band-4-official-firmwares.1372/), or [Here for Mi Band 6](https://geekdoing.com/threads/mi-band-6-original-firmwares-resources-fonts.2780/).
 
-1. Mi Band 3 Resources
-    -[S@ Remix](https://geekdoing.com/threads/s-remix-resource-1-0.1450/)
-    -[Batman](https://geekdoing.com/threads/batman-theme-v1-v2.1454/)
-    -[Deadpool](https://geekdoing.com/threads/deadpool.1543/)
-    -[Harry Potter](https://geekdoing.com/threads/harry-potter-theme%E0%A5%A42020%E0%A5%A4-v49-nfc-non-nfc.1562/)
-    -[Iron Man](https://geekdoing.com/threads/iron-man-v49-calendar-picture-torch.1694/)
+- Mi Band 3 Resources
+  -[S@ Remix](https://geekdoing.com/threads/s-remix-resource-1-0.1450/)
+  -[Batman](https://geekdoing.com/threads/batman-theme-v1-v2.1454/)
+  -[Deadpool](https://geekdoing.com/threads/deadpool.1543/)
+  -[Harry Potter](https://geekdoing.com/threads/harry-potter-theme%E0%A5%A42020%E0%A5%A4-v49-nfc-non-nfc.1562/)
+  -[Iron Man](https://geekdoing.com/threads/iron-man-v49-calendar-picture-torch.1694/)
 
-2. Mi Band 4 Resources
-    -[Lux Dark](https://geekdoing.com/threads/lux-dark-v93-v96-beta.1943/)
-    -[Remix](https://geekdoing.com/threads/s-resources-v88-fw-v1-0-9-22-compilation-from-first-ui-to-gitch-ui-v83.1620/)
-    -[Blue Mania](https://geekdoing.com/threads/blue-mania-v88-v92.1638/)
-    -[Red Mania](https://geekdoing.com/threads/red-mania-v89-v92.1811/)
-    -[Ben 10](https://geekdoing.com/threads/ben-10-v88-v92.1731/)
+- Mi Band 4 Resources
+  -[Lux Dark](https://geekdoing.com/threads/lux-dark-v93-v96-beta.1943/)
+  -[Remix](https://geekdoing.com/threads/s-resources-v88-fw-v1-0-9-22-compilation-from-first-ui-to-gitch-ui-v83.1620/)
+  -[Blue Mania](https://geekdoing.com/threads/blue-mania-v88-v92.1638/)
+  -[Red Mania](https://geekdoing.com/threads/red-mania-v89-v92.1811/)
+  -[Ben 10](https://geekdoing.com/threads/ben-10-v88-v92.1731/)
 
-3. Mi Band 6 Resources
-    -[Crayon](https://geekdoing.com/threads/crayon-resource-for-mi-band-6-v52.3010/)
+- Mi Band 6 Resources
+  -[Crayon](https://geekdoing.com/threads/crayon-resource-for-mi-band-6-v52.3010/)
 
 
 
