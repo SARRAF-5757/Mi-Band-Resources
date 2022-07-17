@@ -1,7 +1,7 @@
 # Mi Band Resources
 
 This repository contains all of my work from [GeekDoing](https://geekdoing.com/search/418521/\) regarding Mi Bands. They can be found here at my [website](https://sarrafsmbstudio.carrd.co/) too. All of the files are available here and link to the original threads will also be provided.
-![Banner](https://github.com/SARRAF-5757/Mi-Band-Resources/blob/main/Baners/Batman.png)
+![Banner](https://github.com/SARRAF-5757/Mi-Band-Resources/blob/main/Banner.jpeg)
 
 #### Instructions
 Each Files have the resource name and the firmware version they can be used with. If you wish to view the full list of firmware and resource compatibility, [Click Here for Mi band 4](https://geekdoing.com/threads/xiaomi-mi-band-4-official-firmwares.1372/), or [Here for Mi Band 6](https://geekdoing.com/threads/mi-band-6-original-firmwares-resources-fonts.2780/).
